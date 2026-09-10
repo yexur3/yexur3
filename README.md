@@ -5,8 +5,8 @@ Applied Informatics student at Matej Bel University (Slovakia), currently lookin
 - 🔭 Building **[Cipher](https://github.com/yexur3/Cipher)** — a real-time crypto/stock portfolio management platform (Java, Spring Boot, Angular, PostgreSQL, WebSocket)
 - 🌱 Also maintaining a Telegram **[expense tracking bot](https://github.com/yexur3/TelegramBot_Java)** (Java, PostgreSQL)
 - 💼 1 year of commercial WordPress development experience (8 client sites)
-- 📫 Reach me at **iliasapa5@gmail.com** or Telegram [@yexur](https://t.me/yexur)
-
+- 📫 Reach me at **iliasapa5@gmail.com**.
+  
 ## Tech Stack
 
 **Core:**
